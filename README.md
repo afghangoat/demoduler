@@ -1,13 +1,13 @@
-#C++ Demoduler for Python
+# C++ Demoduler for Python
 
 A very useless python script which automatically compresses all your separate .h,.hpp,.c,.cpp files to a mega file based on the configurations.
 
-##Dependencies
+## Dependencies
 
 Packages:
 - `os`
 
-##Usage
+## Usage
 
 Run:
 `pyton cpp_demoduler.py`
